@@ -1,17 +1,21 @@
-# Olá! Eu sou o Gustavo Gama 👋
+# Hi! I'm Gustavo Gama 👋
 
 ### Welcome to my profile! 
-<br>
+
 
 #### Soon to be a graduated Software Engineer (last year!!!)
 
-<br>
+
 
 #### Technologies I currently use:
 
 
 - JavaScript, ReactJS, NodeJS, Scala
   
+
+<br>
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogamasa&show_icons=true&theme=tokyonight)
 
 ## Find me on:
 
@@ -20,9 +24,5 @@
 )](https://www.facebook.com/gustavo.gama.96199344/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](www.linkedin.com/in/ggsamaral)
-
-<br>
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogamasa&show_icons=true&theme=tokyonight)
 
 
