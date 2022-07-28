@@ -10,7 +10,7 @@
 #### Technologies I currently use:
 
 
-- JavaScript, ReactJS, NodeJS, Scala
+- JavaScript, ReactJS, NodeJS, Scala, PHP
   
 
 <br>
