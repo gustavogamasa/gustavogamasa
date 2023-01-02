@@ -7,10 +7,10 @@
 
 
 
-#### Technologies I currently use:
+#### Stuff I currently use:
 
 
-- JavaScript, NodeJS, NextJS, React and React Native
+- Typescript, Node.JS, Next.JS, React, React Native, PostgreSQL
   
 
 <br>
