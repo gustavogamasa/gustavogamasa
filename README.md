@@ -3,7 +3,7 @@
 ### Welcome to my profile! 
 
 
-#### Soon to be a graduated Software Engineer (last year!!!)
+#### Graduated in Software Engineering
 
 
 
