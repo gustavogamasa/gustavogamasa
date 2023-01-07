@@ -10,7 +10,7 @@
 #### Stuff I currently use:
 
 
-- Typescript, Node.JS, Next.JS, React, React Native, PostgreSQL
+- Typescript, PHP, Node.JS, Next.JS, React, React Native, PostgreSQL
   
 
 <br>
