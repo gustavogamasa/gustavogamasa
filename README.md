@@ -15,7 +15,9 @@
 
 <br>
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogamasa&show_icons=true&theme=tokyonight)
+<!-- ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogamasa&show_icons=true&theme=tokyonight) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gustavogamasa)](https://git.io/streak-stats)
+
 
 
 ## Find me on:
