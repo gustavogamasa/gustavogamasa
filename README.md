@@ -5,7 +5,7 @@
 - 💻 Bachelor's Degree in Software Engineering
   
 
-- 🌱 Currently improoving my Node.JS and React.JS skills
+- 🌱 Currently improoving Node.JS and React.JS skills
   
 
 - 🛵 I love motorcycles!
