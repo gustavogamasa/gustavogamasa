@@ -2,7 +2,7 @@
 ### <div align="center">Henlo fren! I'm Gustavo a Software Engineer working remotely since 2018 🚀</div>  
 <br>
 
-- 💻 Bachelors Degree in Software Engineering
+- 💻 Bachelor's Degree in Software Engineering
   
 
 - 🌱 Currently improoving my Node.JS and React.JS skills
