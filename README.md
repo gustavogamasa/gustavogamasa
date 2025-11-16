@@ -28,7 +28,7 @@
 
 <div id="stats" align="center">
 
-(![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogamasa&show_icons=true&theme=radical))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavogamasa&show_icons=true&theme=vue-dark&hide_border=true)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustavogamasa&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
